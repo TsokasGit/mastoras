@@ -31,7 +31,7 @@ export default function Hero() {
       {/* Badge */}
       <div className="flex items-center gap-2 bg-green-950 border border-green-800 rounded-full px-4 py-1.5 mb-8">
         <span className="text-green-400 text-xs font-semibold tracking-wide">
-          ✓ Όχι τυχαίος τεχνίτης — ο τεχνίτης που διάλεξες εσύ
+          ✓ Βρες τεχνίτη που θα έρθει.
         </span>
       </div>
 
@@ -43,8 +43,8 @@ export default function Hero() {
 
       {/* Subtext */}
       <p className="text-center text-zinc-500 text-lg max-w-xl leading-relaxed mb-12">
-        Profiles, κριτικές, φωτογραφίες, τιμές. Κλείνεις ραντεβού με τον
-        άνθρωπο που εμπιστεύεσαι — όχι με όποιον στείλει ο αλγόριθμος.
+        Επαληθευμένοι επαγγελματίες με πραγματικές κριτικές.
+        Κλείνεις ραντεβού σε 2 λεπτά, πληρώνεις μόνο όταν είσαι ευχαριστημένος.
       </p>
 
       {/* Search bar */}
