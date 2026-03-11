@@ -27,4 +27,5 @@ src/
 ├── lib/          # DB, Stripe, Auth config
 ├── models/       # Mongoose models
 └── types/        # TypeScript types
-```<img width="2543" height="1305" alt="image" src="https://github.com/user-attachments/assets/a0e80da2-2d58-4eac-81f8-0b5769f34180" />
+
+<img width="2543" height="1305" alt="image" src="https://github.com/user-attachments/assets/c346a7f7-8841-408d-bf4d-1badb30f9d7e" />
