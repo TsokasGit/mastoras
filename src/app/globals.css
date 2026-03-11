@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+* {
+  cursor: default !important;
+  user-select: none !important;
+}
+
+input,
+textarea {
+  cursor: text !important;
+  user-select: text !important;
+}
+
+button,
+a {
+  cursor: pointer !important;
+}
