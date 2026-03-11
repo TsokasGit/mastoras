@@ -28,4 +28,4 @@ src/
 ├── models/       # Mongoose models
 └── types/        # TypeScript types
 
-<img width="2543" height="1305" alt="image" src="https://github.com/user-attachments/assets/c346a7f7-8841-408d-bf4d-1badb30f9d7e" />
+<img width="2543" height="1305" alt="Untitled" src="https://github.com/user-attachments/assets/05ecf9e4-acd7-4f74-83b6-530819446f22" />
